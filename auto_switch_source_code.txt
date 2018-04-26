@@ -1,0 +1,13 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.google.com +proxy
+*.gnome.org +proxy
+*.github.com +proxy
+*.github.* +proxy
+*.google.* +proxy
+*.stackoverflow.* +proxy
+*.youtube.* +proxy
+*.facebook.* +proxy
+
+* +direct
