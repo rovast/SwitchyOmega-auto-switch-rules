@@ -1,0 +1,1 @@
+# SwitchyOmega-auto-switch-rules
