@@ -1,9 +1,21 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.fullstory.com +proxy
+*.wikia.com +proxy
+*.bp.blogspot.com +proxy
+*.twitter.com +proxy
+*.googleusercontent.com +proxy
+*.blogblog.com +proxy
+*.blogger.com +proxy
+*.program-think.blogspot.com +proxy
+*.wikiwand.com +proxy
+*.github.com +proxy
+*.googleadservices.com +proxy
+*.vultr.com +proxy
+*.ajax.googleapis.com +proxy
 *.google.com +proxy
 *.gnome.org +proxy
-*.github.com +proxy
 *.github.* +proxy
 *.google.* +proxy
 *.stackoverflow.* +proxy
