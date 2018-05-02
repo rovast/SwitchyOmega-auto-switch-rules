@@ -1,10 +1,15 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cloudflare.com +proxy
+*.amazon.com +proxy
+*.twitter.com +proxy
+*.fbcdn.net +proxy
+*.googlecode.com +proxy
+*.mozilla-community.org +proxy
 *.fullstory.com +proxy
 *.wikia.com +proxy
 *.bp.blogspot.com +proxy
-*.twitter.com +proxy
 *.googleusercontent.com +proxy
 *.blogblog.com +proxy
 *.blogger.com +proxy
