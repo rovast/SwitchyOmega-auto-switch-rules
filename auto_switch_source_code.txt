@@ -1,7 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.unsplash.com +proxy
+*.googletagmanager.com +proxy
 *.cloudflare.com +proxy
+*.githubusercontent.com +proxy
+*.btrll.com +proxy
+*.disqus.com +proxy
 *.amazon.com +proxy
 *.twitter.com +proxy
 *.fbcdn.net +proxy
