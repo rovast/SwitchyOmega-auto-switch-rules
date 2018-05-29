@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.medium.com +proxy
+*.ggpht.com +proxy
+*.ytimg.com +proxy
+*.atlassian.net +proxy
+*.d2bvhe78se1grn.cloudfront.net +proxy
+*.amazon.co.uk +proxy
+*.teamviewer.com +proxy
+*.ssl-images-amazon.com +proxy
 *.unsplash.com +proxy
 *.googletagmanager.com +proxy
 *.cloudflare.com +proxy
